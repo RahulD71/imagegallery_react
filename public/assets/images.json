@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Elephant",
+    "category": "Animal",
+    "url": "./assets/images/elephant.jpeg",
+    "description": "Elephant"
+  },
+  {
+    "id": "2",
+    "title": "Lion",
+    "category": "Animal",
+    "url": "./assets/images/lion.jpeg",
+    "description": "Lion"
+  },
+  {
+    "id": "3",
+    "title": "Monkey",
+    "category": "Animal",
+    "url": "./assets/images/monkey.jpg",
+    "description": "Monkey"
+  },
+  {
+    "id": "4",
+    "title": "Eagle",
+    "category": "Bird",
+    "url": "./assets/images/eagle.png",
+    "description": "Eagle"
+  },
+  {
+    "id": "5",
+    "title": "Parrot",
+    "category": "Bird",
+    "url": "./assets/images/parrot.jpeg",
+    "description": "Parrot"
+  },
+  {
+    "id": "6",
+    "title": "Pigeon",
+    "category": "Bird",
+    "url": "./assets/images/pigeon.jpg",
+    "description": "Pigeon"
+  }
+]
